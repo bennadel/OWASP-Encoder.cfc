@@ -1,5 +1,5 @@
 
-# OWASP Encoder.cfc - Light-Weight Java Encoder Proxy
+# OWASP Encoder.cfc - Java Encoder Proxy For ColdFusion
 
 by [Ben Nadel][bennadel] (on [Google+][googleplus])
 
